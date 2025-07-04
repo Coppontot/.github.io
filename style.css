@@ -11,6 +11,7 @@ body {
 	margin: 0 auto;
 	width: 1000px;
 	background-color: #fff;
+	background-image: url("D.C.4-5.PNG");
 }
 header {
 	height: 80px;
@@ -37,10 +38,12 @@ h2 {
 	margin: 0;
 	padding: 10px;
 	background-color: #D6E7EE;
+	background-image: url("D.C.4-5.PNG");
 }
 h2 a {
 	text-decoration: none;
 	color: #265699;
+	background-image: url("D.C.4-5.PNG");
 }
 p {
 	margin: 1em 0;
@@ -78,6 +81,7 @@ aside {
 	width: 220px;
 	float: left;
 	background-color: #f8f8f8;
+	background-image: url("D.C.4-5.PNG");
 }
 .left-title {
 	padding: 10px;
